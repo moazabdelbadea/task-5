@@ -1,0 +1,43 @@
+.test{
+    color: floralwhite;
+    text-align: center;
+    vertical-align: text-bottom;
+    background-color: darkred;
+    height: 50px;
+    word-spacing: 100px;
+}
+.test2{
+    color: rgb(221, 227, 227);
+    background-image: url(../coffee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.test3{
+    color: rgb(167, 45, 45);
+    background-color: rgb(206, 157, 157);
+    background-size: cover;
+    height: 290px;
+    width: 240px;
+}
+.test4{
+    color: brown;
+}
+.test5{
+    color: blue;
+}
+.test6{
+    color: rgb(111, 173, 49);
+}
+.test7{
+    color: blue;
+}
+.test8{
+    color: rgb(118, 190, 47);
+}
+.test9{
+    color: chocolate;
+}
+.test10{
+    color: crimson;
+}
